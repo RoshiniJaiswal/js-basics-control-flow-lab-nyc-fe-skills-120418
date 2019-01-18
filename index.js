@@ -25,4 +25,8 @@ case "not as generous" : {
       return "Bye."
     }
   }
-}  
+}
+
+function checktheirage(age) {
+  if (older )
+}
