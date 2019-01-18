@@ -20,5 +20,11 @@ function switchOnCharmFromTip(tip) {
     }
   }
 }
+case "not as generous" : {
+      return "Thank you."
+    }
+    case "" : {
+      return "Thank you so much."
+    }
    
    
