@@ -8,4 +8,3 @@ function scuberGreetingForFeet(feet) {
     return "I will gladly take your thirty bucks."
   }
 }
-
